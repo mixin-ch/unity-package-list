@@ -13,6 +13,9 @@ A list of useful Unity Packages
 - LumosX - Unity-Reorderable-Collections
 `https://github.com/LumosX/Unity-Reorderable-Collections`
 
+- Google - play-unity-plugins
+https://github.com/google/play-unity-plugins
+
 ## Mixin Packages
 - Mixin Utils
 `https://github.com/mixin-ch/unity-mixin-utils.git`
